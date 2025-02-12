@@ -15,3 +15,11 @@ JavaScript - Dynamisation de l'interface.
 
 📜 À propos
 Ce projet a été réalisé dans le but de mieux comprendre l'interaction entre PHP, la base de données, Tailwind CSS et JavaScript. Il sert d'exercice pratique pour apprendre à structurer une application CRUD et gérer l'affichage dynamique des données.
+
+💡 Améliorations possibles : Ajout d'Ajax pour éviter les rechargements, sécurité avec PDO, validation des formulaires...
+
+🔗 Lien vers le repo : [Ajoute ton lien GitHub ici]
+
+
+
+
