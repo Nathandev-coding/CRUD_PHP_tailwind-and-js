@@ -18,7 +18,7 @@ Ce projet a été réalisé dans le but de mieux comprendre l'interaction entre 
 
 💡 Améliorations possibles : Ajout d'Ajax pour éviter les rechargements, sécurité avec PDO, validation des formulaires...
 
-🔗 Lien vers le repo : [Ajoute ton lien GitHub ici]
+🔗 Lien vers le repo : https://github.com/Nathandev-coding/CRUD_PHP_tailwind-and-js
 
 
 
